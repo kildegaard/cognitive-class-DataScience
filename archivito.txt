@@ -1,0 +1,11 @@
+Yo soy la primer línea
+yo soy la segunda
+
+Yo soy la tercera dejando el renglón 3 vacío
+            Yo soy la 4ta con 3 tabs al inicio
+Y yo la 5ta con 3 tabs al final         
+
+Yo soy la 6ta, volviendo a dejar un renglón vacío
+Yo soy la 7ma, con 10 espacioa al final          
+     Yo la 8va con 5 al ppio y 5 al final     
+          Y yo, la última (la 9na pero que está en la línea 11), con 10 espacios al principio
